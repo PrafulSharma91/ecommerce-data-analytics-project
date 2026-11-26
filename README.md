@@ -1,4 +1,4 @@
-# Olist E-Commerce Sales & Customer Analytics
+# E-Commerce Sales & Customer Analytics
 
 An end-to-end Data Analytics portfolio project analyzing **96,470 delivered orders** (**BRL 15.42M** revenue) across 9 relational tables from the Brazilian Olist E-Commerce dataset. This project uncovers revenue seasonality, logistics bottlenecks, customer retention gaps, and actionable customer segments using Python, SQL, Machine Learning, and Looker Studio.
 
